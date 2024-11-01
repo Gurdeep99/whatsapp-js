@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/hello.js": {
-      "runtime": "vercel/node@18.x"
+      "runtime": "vercel/node@18.0.0"
     }
   }
 }
