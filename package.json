@@ -1,9 +1,10 @@
 {
   "name": "whatsapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js server with Bearer authentication",
   "main": "index.js",
   "scripts": {
+    "start": "node api/hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
