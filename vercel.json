@@ -1,6 +1,6 @@
 {
   "functions": {
-    "index.js": {
+    "api/hello.js": {
       "runtime": "vercel/node@18.x"
     }
   }
