@@ -1,4 +1,3 @@
-// api/hello.js
 require('dotenv').config();
 
 module.exports = (req, res) => {
